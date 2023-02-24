@@ -10,3 +10,7 @@ https://hub.docker.com/r/rondrae/aws-bootcamp-cruddur-2023-backend-flask
 # Notifications
 
 Adding the frontend notification page by copying and editing the code from the main page and also added the notification backend. I used my name as the poster and set my like count to 99 because I am cool like that. Each time I made a change I and relaunch the container, I assume this because I am running it locally and not using Gitpod.
+
+# DB
+
+To get postgres working locally with git bash, I had to first download and install then edit the windows environment path to get it to work. Just typing psql it tried to connect with using my windows user account which does not exist in postgres. So I had to use psql -u postgres. I now have 4 containers running in my docker compose file and I am ready for week 2. I also installed and configured AWS CLI.
