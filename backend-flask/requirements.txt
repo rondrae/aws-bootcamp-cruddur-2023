@@ -4,3 +4,6 @@ flask-cors
 aws-xray-sdk
 
 watchtower
+
+blinker
+rollbar
