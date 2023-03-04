@@ -2,7 +2,11 @@
 
 I was feeling a bit off this week. I understand the importance of tracing and but implementing it, isn't as excited as the other stuff we have done.
 
-I implemented, xray, cloudwatch logs and rollbar so far. I will need to take some time to familiarise myself with these tools but they are all working locally.
+I implemented, xray, cloudwatch logs and rollbar so far. I will need to take some time to familiarise myself with these tools but they are all working locally. I found time minutes before week 3 class to add honeycomb. I do everything locally.
+
+# Environment Variables
+![image](https://user-images.githubusercontent.com/18177131/222918511-2f9e68bd-2d7b-4392-9206-9fdba34aba33.png)
+
 
 
 # CloudWatch
