@@ -8,5 +8,6 @@ I implemented, xray, cloudwatch logs and rollbar so far. I will need to take som
 # Honeycomb
 
 I found some time before week 3 class to implement honeycomb.
+![image](https://user-images.githubusercontent.com/18177131/222917476-ebb39927-3d7f-4c56-a12e-34c9cdc9256d.png)
 
 
