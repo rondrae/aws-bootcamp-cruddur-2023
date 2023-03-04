@@ -22,9 +22,9 @@ services:
     environment:
       REACT_APP_BACKEND_URL: "http://127.0.0.1:4567"
       REACT_AWS_PROJECT_REGION: "${AWS_DEFAULT_REGION}"
-      REACT_aws_cognito_region: "ca-cental-1"
-      REACT_aws_user_pools_id: "ca-central-1_pHAX7KZ3N"
-      REACT_app_client_id: "4svhejsf8ktfifbmpddt76ueq0"
+      REACT_APP_AWS_COGNITO_REGION: "ca-cental-1"
+      REACT_APP_AWS_USER_POOLS_ID: "ca-central-1_pHAX7KZ3N"
+      REACT_APP_CLIENT_ID: "4svhejsf8ktfifbmpddt76ueq0"
     build: ./frontend-react-js
     ports:
       - "3000:3000"
