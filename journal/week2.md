@@ -5,6 +5,16 @@ I was feeling a bit off this week. I understand the importance of tracing and bu
 I implemented, xray, cloudwatch logs and rollbar so far. I will need to take some time to familiarise myself with these tools but they are all working locally.
 
 
+# CloudWatch
+![image](https://user-images.githubusercontent.com/18177131/222917870-2a40b553-33c2-423f-9b90-7ce23269d3bb.png)
+
+
+# AWS X-Ray
+
+![image](https://user-images.githubusercontent.com/18177131/222917802-1d751910-4be0-483b-b3ce-23596212af25.png)
+
+
+
 # Honeycomb
 
 I found some time before week 3 class to implement honeycomb.
