@@ -7,4 +7,5 @@ aws cognito-idp admin-set-user-password \
   --password xxxxxxxx \
   --permanent
 
-  
+  I was getting an error when signing in "Error! InvalidParameterException: USER_SRP_AUTH is not enabled for the client." I fixed it by enableing it in aws cognito.
+
